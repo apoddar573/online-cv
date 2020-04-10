@@ -56,21 +56,21 @@ experiences:
       time: June 2019 - Present
       company: Adobe Systems, India
       details: |
-        I am part of the Adobe Content Platform (ACP) development team at Adobe where we are tasked with 
-        developing and maintaining various platform servies. As part of ACP, I am also involved in writing, deploying and 
-        maintaining dockerized Java microservices.
+        - Part of the Adobe Content Platform (ACP) development team at Adobe where we are tasked with 
+        developing and maintaining various platform servies 
+        - Also involved with the team in writing, deploying and maintaining dockerized Java microservices
     - role: Product Intern
       time: May 2018 -  July 2018
       company: Adobe Systems, Bangalore
       details: |
-        Spend Recommendation System:  Built a full-fledged spend recommendation system from scratch. 
+        - Spend Recommendation System:  Built a full-fledged spend recommendation system from scratch. 
         Worked on a long term forecasting problem along with an optimal allocation problem and finally 
         built a domain specific market emulator and an intuitive user interface for the product.
     - role: Research Intern
       time: May 2017 - July 2017
       company: International Centre for Theoretical Sciences - TIFR
       details: |
-        Prediction of Indian Monsoon Rainfall:  Studied the Indian Monsoon Rainfall and various research 
+        - Prediction of Indian Monsoon Rainfall:  Studied the Indian Monsoon Rainfall and various research 
         papers on the methods developed to predict the same. Performed extensive Time Series modelling for the 
         Indian Rainfall on various time and spatial scales to predict rainfall.
     - role: Co founder
@@ -106,15 +106,6 @@ skills:
 
       - name: Python
         level: 80%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
