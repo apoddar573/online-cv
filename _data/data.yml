@@ -3,42 +3,39 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ashish Kumar Poddar
+    tagline: Software Development Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: apoddar573@gmail.com
+    phone: +91 8474059812
+    website:  #do not add http://
+    linkedin: apoddar573
+    github: apoddar573
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Long distance running
         link:
 
       - item: Cooking
@@ -47,134 +44,68 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a B. Tech graduate in Mathematics and Computing from IIT Guwahati currently 
+      working as an MTS at Adobe Systems Noida. I have one year of experience working in the computer Software industry 
+      with skills in technologies such as Amazon Web Services(AWS), Cloud Computing, Java, Python and Data Structures.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Bachelor of Technology in Mathematics and Computing
+      university: Indian Institute of Technology Guwahati
+      time: 2015 - 2019
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Development Engineer
+      time: June 2019 - Present
+      company: Adobe Systems, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I am part of the Adobe Content Platform (ACP) development team at Adobe where we are tasked with 
+        developing and maintaining various platform servies. As part of ACP, I am also involved in writing, deploying and 
+        maintaining dockerized Java microservices.
+    - role: Product Intern
+      time: May 2018 -  July 2018
+      company: Adobe Systems, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Spend Recommendation System:  Built a full-fledged spend recommendation system from scratch. 
+        Worked on a long term forecasting problem along with an optimal allocation problem and finally 
+        built a domain specific market emulator and an intuitive user interface for the product.
+    - role: Research Intern
+      time: May 2017 - July 2017
+      company: International Centre for Theoretical Sciences - TIFR
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Prediction of Indian Monsoon Rainfall:  Studied the Indian Monsoon Rainfall and various research 
+        papers on the methods developed to predict the same. Performed extensive Time Series modelling for the 
+        Indian Rainfall on various time and spatial scales to predict rainfall.
+    - role: Co founder
+      time: Dec 2016 - Dec 2019
+      company: Ignotech
+      details: |
+        - Organization:  An organization founded by me and three others from IIT Guwahati that specializes in conducting workshops on basic Electronics and Robotics
+        - Workshops:  Conducted workshops in various schools and colleges.  Our students ranged from the 8th standard to final year engineering students.
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Toy language Interpreter
+        link: "https://github.com/apoddar573/Interpreter"
+        tagline: "A program designed to interpret and execute programs in a toy language designed by us.The interpreter could handle assignments, conditional statements, loops, functions, print statements and could even raiseexceptions on facing certain errors."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Cassandra and Neo4j - Databases Projects
+        link: "https://github.com/apoddar573/Databases_Lab"
+        tagline: "Built an efficient data model in both cassandra and Neo4j to executemultiple queries on a twitter datase."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Random Number Generator
+        tagline: "Generated Random numbers from Transmuted Weibull Distribution using the Inversetransform, Acceptance - Rejection and Slice Sampling Method."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C/C++
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
