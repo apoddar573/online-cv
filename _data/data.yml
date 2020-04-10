@@ -45,7 +45,7 @@ career-profile:
     title: Career Profile
     summary: |
       I am a B. Tech graduate in Mathematics and Computing from IIT Guwahati currently 
-      working as an MTS at Adobe Systems Noida. I have one year of experience working in the computer Software industry 
+      working as an MTS at Adobe Systems. I have one year of experience working in the computer Software industry 
       with skills in technologies such as Amazon Web Services(AWS), Cloud Computing, Java, Python and Data Structures.
 education:
     - degree: Bachelor of Technology in Mathematics and Computing
@@ -57,7 +57,7 @@ experiences:
       company: Adobe Systems, India
       details: |
         - Part of the Adobe Content Platform (ACP) development team at Adobe where we are tasked with 
-        developing and maintaining various platform servies 
+        developing and maintaining various platform services 
         - Also involved with the team in writing, deploying and maintaining dockerized Java microservices
     - role: Product Intern
       time: May 2018 -  July 2018
