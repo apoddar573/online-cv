@@ -26,8 +26,23 @@
 
     {% endfor %}
 
+  </div>
+
+    <div class="skillset-2">
+
+    {% for category in skills.category %}
+    <div class="item">
+
+      <span class="category-title"> <b>{{ category.name }}</b></span>
+
+      - <span class="category-list">{{ category.list }}</span>
+
+    </div><!--//item-->
+
+    {% endfor %}
 
   </div>
+
 
 </section><!--//skills-section-->
 {% endif %}
