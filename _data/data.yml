@@ -97,16 +97,6 @@ projects:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Java
-        level: 80%
-
-      - name: C/C++
-        level: 80%
-
-      - name: Python
-        level: 80%
-
     category:
       - name: Programming languages
         list: C/C++, Java, Python, R, Matlab
