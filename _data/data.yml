@@ -114,6 +114,12 @@ skills:
       - name: Tools/Frameworks/IDE
         list: IntelliJ IDEA, Spring Boot, Rstudio, Git
 
+      - name: Database Management
+        list: SQLite, Cassandra, Neo4j
+
+      - name: Operating Systems
+        list: Windows, GNU/Linux, macOS
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
