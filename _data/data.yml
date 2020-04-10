@@ -107,5 +107,13 @@ skills:
       - name: Python
         level: 80%
 
+    category:
+      - name: Programming languages
+        list: C/C++, Java, Python, R, Matlab
+
+      - name: Tools/Frameworks/IDE
+        list: IntelliJ IDEA, Spring Boot, Rstudio, Git
+
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
